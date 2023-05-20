@@ -1,0 +1,18 @@
+ol {
+    list-style-type: upper-latin;
+}
+
+ol li{
+    margin-bottom: 20px;
+
+}
+
+#main{
+    padding-left: 20px;
+
+}
+
+#correct_answer{
+    display: none;
+   
+}
